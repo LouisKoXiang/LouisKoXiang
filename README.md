@@ -6,10 +6,10 @@
      <img src="https://img.shields.io/badge/F2E-Html-html" alt="html5">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/F2E-javascript-javascript" alt="javascript">
+     <img src="https://img.shields.io/badge/F2E-Javascript-javascript" alt="javascript">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/F2E-jquery-jquery" alt="jq">
+     <img src="https://img.shields.io/badge/F2E-Jquery-jquery" alt="jq">
   </a>
   <br/>
   <a href="#">
@@ -25,7 +25,7 @@
      <img src="https://img.shields.io/badge/F2E-POSTCSS-red" alt="POSTCSS">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/F2E-babel-red" alt="RWD">
+     <img src="https://img.shields.io/badge/F2E-BABEL-red" alt="RWD">
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 <p>
   <a href="#">
-     <img src="https://img.shields.io/badge/Frameworks-vue-vue" alt="vue">
+     <img src="https://img.shields.io/badge/Frameworks-Vue-vue" alt="vue">
   </a>
   <a href="#">
      <img src="https://img.shields.io/badge/Frameworks-Hugo-hugo" alt="hugo">
@@ -56,7 +56,7 @@
 
 <p>
   <a href="#">
-     <img src="https://img.shields.io/badge/Version_Control-webpack-red" alt="RWD">
+     <img src="https://img.shields.io/badge/Version_Control-Webpack-red" alt="RWD">
   </a>
   <a href="#">
      <img src="https://img.shields.io/badge/CICD-Jenkins-blue" alt="RWD">
@@ -68,7 +68,7 @@
      <img src="https://img.shields.io/badge/CICD-GitHub-blue" alt="RWD">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/CLOUD-AWS-blue" alt="RWD">
+     <img src="https://img.shields.io/badge/CLOUD-Aws-blue" alt="RWD">
   </a>
 </p>
 
