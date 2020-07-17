@@ -1,16 +1,37 @@
-### Hi there 👋
-
-<!--
-**LouisKoXiang/LouisKoXiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am a versatile Front-end Developer
+### Front-end skill
+<p align="left">
+  <a href="#">
+     <img src="https://img.shields.io/badge/F2E-Html-html" alt="html5">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/F2E-javascript-javascript" alt="javascript">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/F2E-vue-vue" alt="vue">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/F2E-Hugo-hugo" alt="hugo">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/F2E-jquery-jquery" alt="jq">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/F2E-CSS-red" alt="Css">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/F2E-RWD-red" alt="RWD">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/F2E-SCSS-red" alt="RWD">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/F2E-PostCSS-red" alt="RWD">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/F2E-babel-red" alt="RWD">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/F2E-webpack-red" alt="RWD">
+  </a>
+</p>
