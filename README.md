@@ -19,10 +19,10 @@
      <img src="https://img.shields.io/badge/F2E-RWD-red" alt="RWD">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/F2E-SCSS-red" alt="RWD">
+     <img src="https://img.shields.io/badge/F2E-SCSS-red" alt="SCSS">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/F2E-PostCSS-red" alt="RWD">
+     <img src="https://img.shields.io/badge/F2E-POSTCSS-red" alt="POSTCSS">
   </a>
   <a href="#">
      <img src="https://img.shields.io/badge/F2E-babel-red" alt="RWD">
@@ -37,6 +37,9 @@
   </a>
   <a href="#">
      <img src="https://img.shields.io/badge/Frameworks-Hugo-hugo" alt="hugo">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/Frameworks-React-React" alt="React">
   </a>
   <a href="#">
      <img src="https://img.shields.io/badge/tempelate_UI-element_ui-orange" alt="RWD">
