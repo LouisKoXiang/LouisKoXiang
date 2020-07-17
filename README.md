@@ -52,7 +52,7 @@
   </a>
 </p>
 
-### Version Control/Git Devops skill
+### Version Control/Git Devops
 
 <p>
   <a href="#">
