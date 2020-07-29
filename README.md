@@ -41,8 +41,9 @@
   <a href="#">
      <img src="https://img.shields.io/badge/Frameworks-React-React" alt="React">
   </a>
+  <br/>
   <a href="#">
-     <img src="https://img.shields.io/badge/tempelate_UI-bootstrap" alt="bootstrap">
+     <img src="https://img.shields.io/badge/tempelate_UI-bootstrap-orange" alt="element_ui">
   </a>
   <a href="#">
      <img src="https://img.shields.io/badge/tempelate_UI-element_ui-orange" alt="element_ui">
