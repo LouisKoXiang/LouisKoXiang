@@ -42,13 +42,16 @@
      <img src="https://img.shields.io/badge/Frameworks-React-React" alt="React">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/tempelate_UI-element_ui-orange" alt="RWD">
+     <img src="https://img.shields.io/badge/tempelate_UI-bootstrap" alt="bootstrap">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/tempelate_UI-vuetify_js-orange" alt="RWD">
+     <img src="https://img.shields.io/badge/tempelate_UI-element_ui-orange" alt="element_ui">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/tempelate_UI-mand_mobile_2-orange" alt="RWD">
+     <img src="https://img.shields.io/badge/tempelate_UI-vuetify_js-orange" alt="vuetify">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/tempelate_UI-mand_mobile_2-orange" alt="mand_mobile_2">
   </a>
 </p>
 
@@ -56,19 +59,22 @@
 
 <p>
   <a href="#">
-     <img src="https://img.shields.io/badge/Version_Control-Webpack-red" alt="RWD">
+     <img src="https://img.shields.io/badge/Version_Control-Webpack-red" alt="Webpack">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/CICD-Jenkins-blue" alt="RWD">
+     <img src="https://img.shields.io/badge/CICD-Jenkins-blue" alt="Jenkins">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/CICD-GitLab-blue" alt="RWD">
+     <img src="https://img.shields.io/badge/CICD-GitLab-blue" alt="GitLab">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/CICD-GitHub-blue" alt="RWD">
+     <img src="https://img.shields.io/badge/CICD-GitHub-blue" alt="GitHub">
   </a>
   <a href="#">
-     <img src="https://img.shields.io/badge/CLOUD-Aws-blue" alt="RWD">
+     <img src="https://img.shields.io/badge/CLOUD-Aws-blue" alt="Aws">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/CLOUD-Docker-blue" alt="Docker">
   </a>
 </p>
 
