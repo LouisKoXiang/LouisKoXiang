@@ -35,11 +35,14 @@
   <a href="#">
      <img src="https://img.shields.io/badge/Frameworks-Vue-vue" alt="vue">
   </a>
-  <a href="#">
-     <img src="https://img.shields.io/badge/Frameworks-Hugo-hugo" alt="hugo">
+   <a href="#">
+     <img src="https://img.shields.io/badge/Frameworks-Vue_NUXT-vue" alt="vue">
   </a>
   <a href="#">
      <img src="https://img.shields.io/badge/Frameworks-React-React" alt="React">
+  </a>
+  <a href="#">
+     <img src="https://img.shields.io/badge/Frameworks-Hugo-hugo" alt="hugo">
   </a>
   <br/>
   <a href="#">
