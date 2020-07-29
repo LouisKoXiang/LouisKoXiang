@@ -1,5 +1,6 @@
 ## I am a versatile Front-end Developer
-### Skill HTML/CSS & SEO & JavaScript/jQuery & Frameworks & Responsive Design & Version Control/Git
+### Skill HTML/CSS & SEO & JavaScript/jQuery & Frameworks & Responsive Design
+### & Version Control/Git
 ### HTML/CSS/JavaScript/jQuery/Responsive
 <p align="left">
   <a href="#">
