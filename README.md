@@ -3,59 +3,59 @@
 ### & Version Control/Git
 ### HTML/CSS/JavaScript/jQuery/Responsive
 <p align="left">
-  <a href="#">
-     <img src="https://img.shields.io/badge/F2E-Html-html" alt="html5">
+  <a href="https://developer.mozilla.org/zh-TW/docs/Web/Guide/HTML/HTML5">
+     <img src="https://img.shields.io/badge/F2E-Html5-html" alt="html5">
   </a>
-  <a href="#">
+  <a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript">
      <img src="https://img.shields.io/badge/F2E-Javascript-javascript" alt="javascript">
   </a>
-  <a href="#">
+  <a href="https://jquery.com/">
      <img src="https://img.shields.io/badge/F2E-Jquery-jquery" alt="jq">
   </a>
   <br/>
-  <a href="#">
-     <img src="https://img.shields.io/badge/F2E-CSS-red" alt="Css">
+  <a href="https://developer.mozilla.org/zh-TW/docs/Archive/CSS3">
+     <img src="https://img.shields.io/badge/F2E-CSS3-red" alt="Css3">
   </a>
-  <a href="#">
+  <a href="https://developer.mozilla.org/zh-TW/docs/Glossary/Responsive_web_design">
      <img src="https://img.shields.io/badge/F2E-RWD-red" alt="RWD">
   </a>
-  <a href="#">
+  <a href="https://sass-lang.com/guide">
      <img src="https://img.shields.io/badge/F2E-SCSS-red" alt="SCSS">
   </a>
-  <a href="#">
+  <a href="https://postcss.org/">
      <img src="https://img.shields.io/badge/F2E-POSTCSS-red" alt="POSTCSS">
   </a>
-  <a href="#">
-     <img src="https://img.shields.io/badge/F2E-BABEL-red" alt="RWD">
+  <a href="https://babeljs.io/">
+     <img src="https://img.shields.io/badge/F2E-BABEL-red" alt="BABEL">
   </a>
 </p>
 
 ### Frameworks & Frameworks UI
 
 <p>
-  <a href="#">
+  <a href="https://vuejs.org/">
      <img src="https://img.shields.io/badge/Frameworks-Vue-vue" alt="vue">
   </a>
-   <a href="#">
+   <a href="https://nuxtjs.org/">
      <img src="https://img.shields.io/badge/Frameworks-Vue_NUXT-vue" alt="vue">
   </a>
-  <a href="#">
+  <a href="https://reactjs.org/">
      <img src="https://img.shields.io/badge/Frameworks-React-React" alt="React">
   </a>
-  <a href="#">
+  <a href="https://gohugo.io/">
      <img src="https://img.shields.io/badge/Frameworks-Hugo-hugo" alt="hugo">
   </a>
   <br/>
-  <a href="#">
+  <a href="https://getbootstrap.com/">
      <img src="https://img.shields.io/badge/tempelate_UI-bootstrap-orange" alt="element_ui">
   </a>
-  <a href="#">
+  <a href="https://element.eleme.io/#/zh-CN">
      <img src="https://img.shields.io/badge/tempelate_UI-element_ui-orange" alt="element_ui">
   </a>
-  <a href="#">
+  <a href="https://vuetifyjs.com/en/">
      <img src="https://img.shields.io/badge/tempelate_UI-vuetify_js-orange" alt="vuetify">
   </a>
-  <a href="#">
+  <a href="https://didi.github.io/mand-mobile/#/en-US/home">
      <img src="https://img.shields.io/badge/tempelate_UI-mand_mobile_2-orange" alt="mand_mobile_2">
   </a>
 </p>
@@ -63,22 +63,22 @@
 ### Version Control/Git Devops
 
 <p>
-  <a href="#">
+  <a href="https://webpack.js.org/">
      <img src="https://img.shields.io/badge/Version_Control-Webpack-red" alt="Webpack">
   </a>
-  <a href="#">
+  <a href="https://www.jenkins.io/">
      <img src="https://img.shields.io/badge/CICD-Jenkins-blue" alt="Jenkins">
   </a>
-  <a href="#">
+  <a href="https://about.gitlab.com/">
      <img src="https://img.shields.io/badge/CICD-GitLab-blue" alt="GitLab">
   </a>
-  <a href="#">
+  <a href="https://github.com/">
      <img src="https://img.shields.io/badge/CICD-GitHub-blue" alt="GitHub">
   </a>
-  <a href="#">
+  <a href="https://aws.amazon.com/tw/">
      <img src="https://img.shields.io/badge/CLOUD-Aws-blue" alt="Aws">
   </a>
-  <a href="#">
+  <a href="https://www.docker.com/">
      <img src="https://img.shields.io/badge/CLOUD-Docker-blue" alt="Docker">
   </a>
 </p>
