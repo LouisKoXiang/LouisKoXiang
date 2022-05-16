@@ -9,6 +9,9 @@
   <a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript">
      <img src="https://img.shields.io/badge/F2E-Javascript-javascript" alt="javascript">
   </a>
+  <a href="https://www.typescriptlang.org">
+     <img src="https://img.shields.io/badge/F2E-Typescript-typescript" alt="typescript">
+  </a>
   <a href="https://jquery.com/">
      <img src="https://img.shields.io/badge/F2E-Jquery-jquery" alt="jq">
   </a>
@@ -34,10 +37,13 @@
 
 <p>
   <a href="https://vuejs.org/">
-     <img src="https://img.shields.io/badge/Frameworks-Vue-vue" alt="vue">
+     <img src="https://img.shields.io/badge/Frameworks-Vue3-vue" alt="vue">
+  </a>
+  <a href="https://vuejs.org/">
+     <img src="https://img.shields.io/badge/Frameworks-Vue2-vue" alt="vue">
   </a>
    <a href="https://nuxtjs.org/">
-     <img src="https://img.shields.io/badge/Frameworks-Vue_NUXT-vue" alt="vue">
+     <img src="https://img.shields.io/badge/Frameworks-Vue_Nuxt-vue" alt="vue">
   </a>
   <a href="https://reactjs.org/">
      <img src="https://img.shields.io/badge/Frameworks-React-React" alt="React">
