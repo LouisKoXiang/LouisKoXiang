@@ -55,6 +55,9 @@
      <img src="https://img.shields.io/badge/Frameworks-Hugo-hugo" alt="hugo">
   </a>
   <br/>
+  <a href="https://tailwindcss.com/docs/installation">
+     <img src="https://img.shields.io/badge/tempelate_UI-tailwindcss-orange" alt="tailwindcss">
+  </a>
   <a href="https://getbootstrap.com/">
      <img src="https://img.shields.io/badge/tempelate_UI-bootstrap-orange" alt="element_ui">
   </a>
